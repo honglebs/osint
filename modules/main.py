@@ -8,3 +8,5 @@ console.print("The total is 128")
 print("Hello, [bold green]Geeks[/bold green]!")
 print("[italic red]Hello[/italic red] World!")
 
+def main():
+    return
